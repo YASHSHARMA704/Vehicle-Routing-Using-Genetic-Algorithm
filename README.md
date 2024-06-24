@@ -1,7 +1,7 @@
 # Vehicle Routing Problem Using Genetic Algorithm 🚗📦🚗📦🚗📦
 This repository contains a Google Colab implementing a genetic algorithm in Python using the DEAP library to solve the Vehicle Routing Problem (VRP). The project optimizes routes for multiple vehicles, aiming to minimize total travel distance and improve delivery efficiency.
 
-![Google Colab](https://img.shields.io/badge/Google-Colab-orange) ![Python](https://img.shields.io/badge/Python-3.9-blue) ![DEAP](https://img.shields.io/badge/DEAP-1.3.1-brightgreen) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-yellow)
+![Google Colab](https://img.shields.io/badge/Google-Colab-orange) ![Python](https://img.shields.io/badge/Python-3.9-blue) ![Numpy](https://img.shields.io/badge/Numpy-1.26.4-Yellow) ![DEAP](https://img.shields.io/badge/DEAP-1.3.1-brightgreen) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-yellow)
 
 # Key Features
 **Genetic Algorithm Implementation**: Utilizes DEAP library to perform genetic operations.
